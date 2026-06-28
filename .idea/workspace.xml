@@ -5,9 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a64fd0a9-9e5f-4ace-a663-88a0e6cc7b5a" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Trabalho.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Trabalho.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ancestral Medicine.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatGPT Image 25 de jun. de 2026, 19_17_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatGPT Image 25 de jun. de 2026, 19_19_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatGPT Image 25 de jun. de 2026, 19_20_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatGPT Image 25 de jun. de 2026, 19_49_24 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatGPT Image 25 de jun. de 2026, 19_49_25 (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Epic instrumental soundtrack inspired by.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Epic instrumental track inspired by anci (1).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Epic instrumental track inspired by anci.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player1.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Player1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player2.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Player2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shaman.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Shaman.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The shadows.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/asset/The shadows.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The tast of the popcorn.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/asset/The tast of the popcorn.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Two worlds colide.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Two worlds colide.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/War between worlds.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/asset/War between worlds.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula03Tema02.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula03Tema03.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula03tema05.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula_pratica_1.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/música apenas instrumental viking heavy  (1).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/música apenas instrumental viking heavy .mp3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +41,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="32" />
+    <option name="cachedIndexableFilesCount" value="30" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,61 +71,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000001234132079" />
-      <entry key="MS500" value="1.0445266536065838" />
-      <entry key="S2" value="2.0150714906860108" />
-      <entry key="S5" value="3.510926656792947" />
-      <entry key="S10" value="4.512008583609768" />
-      <entry key="S30" value="5.649927647148602" />
-      <entry key="S60" value="7.5604501789949845" />
-      <entry key="M2" value="12.344634173850164" />
-      <entry key="M5" value="23.063504484702936" />
-      <entry key="M10" value="36.9800056857645" />
-      <entry key="M15" value="49.699599837165614" />
-      <entry key="M30" value="80.02711509616555" />
-      <entry key="H1" value="113.43417755751733" />
-      <entry key="H2" value="139.9142678615872" />
-      <entry key="H4" value="156.86560444340537" />
-      <entry key="D1" value="173.39597204523344" />
-      <entry key="W1" value="176.4786658070776" />
+      <entry key="MS100" value="9.828195887899463E-154" />
+      <entry key="MS500" value="2.5031954502906406E-31" />
+      <entry key="S2" value="2.236782159677699E-8" />
+      <entry key="S5" value="8.706617713883422E-4" />
+      <entry key="S10" value="0.029506982756163837" />
+      <entry key="S30" value="0.31561976768320005" />
+      <entry key="S60" value="0.8679038623320628" />
+      <entry key="M2" value="3.2027753095734486" />
+      <entry key="M5" value="11.677329703690665" />
+      <entry key="M10" value="25.24825794760527" />
+      <entry key="M15" value="38.80414339289081" />
+      <entry key="M30" value="75.10433139859998" />
+      <entry key="H1" value="121.85922095295068" />
+      <entry key="H2" value="163.74931809319628" />
+      <entry key="H4" value="192.65945833090905" />
+      <entry key="D1" value="222.34018987295855" />
+      <entry key="W1" value="228.0325308496566" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.2076654944147649E-136" />
-      <entry key="S2" value="1.0483026036302354E-34" />
-      <entry key="S5" value="2.5597329904710775E-14" />
-      <entry key="S10" value="1.5999165573463756E-7" />
-      <entry key="S30" value="0.005428740857295436" />
-      <entry key="S60" value="0.07367998953104862" />
-      <entry key="M2" value="0.27144058195312043" />
-      <entry key="M5" value="0.5935672230873668" />
-      <entry key="M10" value="0.7704331399202442" />
-      <entry key="M15" value="0.8404075984295731" />
-      <entry key="M30" value="0.9167374751964561" />
-      <entry key="H1" value="0.9574640855909201" />
-      <entry key="H2" value="0.9785009379611859" />
-      <entry key="H4" value="0.9891920632320025" />
-      <entry key="D1" value="0.9981905113042583" />
-      <entry key="W1" value="0.999741300925806" />
+      <entry key="MS100" value="1.0000000000000016" />
+      <entry key="MS500" value="1.0010865723833837" />
+      <entry key="S2" value="1.181557697188461" />
+      <entry key="S5" value="1.5053658209783993" />
+      <entry key="S10" value="1.7108908643233498" />
+      <entry key="S30" value="1.8924875924582105" />
+      <entry key="S60" value="1.9467719294236514" />
+      <entry key="M2" value="2.034638451931423" />
+      <entry key="M5" value="2.493166104914122" />
+      <entry key="M10" value="3.0737365307584588" />
+      <entry key="M15" value="3.4429581053089695" />
+      <entry key="M30" value="4.019178183792406" />
+      <entry key="H1" value="4.439757118091532" />
+      <entry key="H2" value="4.699099514907891" />
+      <entry key="H4" value="4.843863713271004" />
+      <entry key="D1" value="4.973141722033329" />
+      <entry key="W1" value="4.996142012538606" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.09214182703820299" />
-      <entry key="MS500" value="0.6380121520891259" />
-      <entry key="S2" value="1.6944148829808587" />
-      <entry key="S5" value="3.2440139333957854" />
-      <entry key="S10" value="4.331195206551263" />
-      <entry key="S30" value="5.574381427389345" />
-      <entry key="S60" value="7.567971119550086" />
-      <entry key="M2" value="12.550312692193172" />
-      <entry key="M5" value="23.604804615892984" />
-      <entry key="M10" value="37.70931806182313" />
-      <entry key="M15" value="50.504666675580346" />
-      <entry key="M30" value="80.91896683151198" />
-      <entry key="H1" value="114.37626854381108" />
-      <entry key="H2" value="140.88412822199106" />
-      <entry key="H4" value="157.8502022937848" />
-      <entry key="D1" value="174.39335534286872" />
-      <entry key="W1" value="177.47829072641883" />
+      <entry key="MS100" value="1.536492233362913E-5" />
+      <entry key="MS500" value="0.10897142663165946" />
+      <entry key="S2" value="0.610370528116656" />
+      <entry key="S5" value="1.0657321463264353" />
+      <entry key="S10" value="1.4316549037186508" />
+      <entry key="S30" value="2.0545295366670238" />
+      <entry key="S60" value="2.7220310777656875" />
+      <entry key="M2" value="5.179767211228217" />
+      <entry key="M5" value="14.131449889173783" />
+      <entry key="M10" value="28.28867495185433" />
+      <entry key="M15" value="42.21568898304059" />
+      <entry key="M30" value="79.09679684747468" />
+      <entry key="H1" value="126.27982246042251" />
+      <entry key="H2" value="168.43663000656366" />
+      <entry key="H4" value="197.4967371457977" />
+      <entry key="D1" value="227.3121234796691" />
+      <entry key="W1" value="233.02849735064666" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -111,29 +137,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Const.executor": "Run",
+    "Python.Game.executor": "Run",
+    "Python.Menu.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\PaladinRage\code" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -151,6 +187,7 @@
       <workItem from="1782430693492" duration="4712000" />
       <workItem from="1782477069040" duration="1175000" />
       <workItem from="1782507458080" duration="653000" />
+      <workItem from="1782612613491" duration="2222000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
